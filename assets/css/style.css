@@ -718,7 +718,7 @@ ul.caption-slides li {
 
 .img-guide {
   display: flex;
-  width: 150px;
+  width: 300px;
   height: auto;
   margin-bottom: 3vh;
   margin-top: 3vh;
@@ -897,6 +897,8 @@ ul.caption-slides li {
   text-transform: none;
   color: black;
 }
+
+
 
 .big-subtitle-new2 {
   font-family: 'Raleway', sans-serif;
